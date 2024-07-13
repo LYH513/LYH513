@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 1. 포항시 IT 협업 동아리 PARD 2기 WEB 파디 : 2023.9 ~ 2024.1.7
-2. PARD 2기 숏커톤 유니 팀의 최애의 교수(WEB) : 2023.11.25~2023.11.26 : 3등
-3. PARD 2기 롱커톤 값진연고 팀의 MoneyGlove(WEB) : 2023.12 ~2024.1 : 우수상
+2. PARD 2기 숏커톤 유니 팀의 [최애의 교수(WEB)](https://github.com/2nd-PARD-WEB-PART/uni) : 2023.11.25~2023.11.26 : 3등
+3. PARD 2기 롱커톤 값진연고 팀의 [MoneyGlove(WEB)](https://github.com/Club-PARD/My_Precious_WEB) : 2023.12 ~2024.1 : 우수상
 4. 포항시 IT 협업 동아리 PARD 3기 WEB 파도 : 2024.3 ~ 2024.7.14 
-5. PARD 3기 숏커톤 기영이의 Pyo류기 팀의 Near&Dear(WEB) : 2024.5.24~2024.5.25 : 1등
-6. PARD 3기 롱커톤 나무꾼 팀의 한마디(WEB) : 2024.6.8 ~2024.7.14 : 최우수상
+5. PARD 3기 숏커톤 기영이의 Pyo류기 팀의 [Near&Dear(WEB)](https://github.com/3rd-PARD-WEB-PART/Pyo) : 2024.5.24~2024.5.25 : 1등
+6. PARD 3기 롱커톤 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.6.8 ~2024.7.14 : 최우수상
