@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 4. 포항시 IT 협업 동아리 PARD 3기 WEB 파도 : 2024.3 ~ 2024.7.14 
 5. PARD 3기 숏커톤 기영이의 Pyo류기 팀의 [Near&Dear(WEB)](https://github.com/3rd-PARD-WEB-PART/Pyo) : 2024.5.24~2024.5.25 : 1등
 6. PARD 3기 롱커톤 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.6.8 ~2024.7.14 : 최우수상
+7. 포항시 IT 협업 동아리 PARD 4기 iOS 파디 : 2024.9.7 ~ 2025.1.5
