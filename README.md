@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 6. PARD 3기 롱커톤 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.6.8 ~ 2024.7.14 : 최우수상
 7. 포항시 IT 협업 동아리 PARD 4기 iOS 파디 : 2024.9.7 ~ 2025.1.5
 8. PARD 4기 숏커톤 든든국밥 팀의 [Keeper(iOS)](https://github.com/4th-PARD-iOS-PART/dundunKukBab) : 2024.11.15 ~ 2024.11.16
-9. PARD 5기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03
+9. PARD 5기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
