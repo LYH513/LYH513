@@ -1,19 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<!--
-**LYH513/LYH513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Youhyeon's Repo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
 1. 포항시 IT 협업 동아리 PARD 2기 WEB 파디 : 2023.9 ~ 2024.1.7
 2. PARD 2기 숏커톤 유니 팀의 [최애의 교수(WEB)](https://github.com/2nd-PARD-WEB-PART/uni) : 2023.11.25 ~ 2023.11.26 : 3등
 3. PARD 2기 롱커톤 값진연고 팀의 [MoneyGlove(WEB)](https://github.com/Club-PARD/My_Precious_WEB) : 2023.12 ~ 2024.1 : 우수상
@@ -23,3 +12,13 @@ Here are some ideas to get you started:
 7. 포항시 IT 협업 동아리 PARD 4기 iOS 파디 : 2024.9.7 ~ 2025.1.5
 8. PARD 4기 숏커톤 든든국밥 팀의 [Keeper(iOS)](https://github.com/4th-PARD-iOS-PART/dundunKukBab) : 2024.11.15 ~ 2024.11.16
 9. PARD 5기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYH513&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LYH513&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+
