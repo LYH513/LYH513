@@ -12,7 +12,7 @@
 7. 포항시 IT 협업 동아리 PARD 4기 iOS 파디 : 2024.9.7 ~ 2025.1.5
 8. PARD 4기 숏커톤 든든국밥 팀의 [Keeper(iOS)](https://github.com/4th-PARD-iOS-PART/dundunKukBab) : 2024.11.15 ~ 2024.11.16
 9. PARD 4기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
-10. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~  
+10. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~  
     
 
 <br/>
