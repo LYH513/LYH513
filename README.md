@@ -11,9 +11,10 @@
 6. PARD 3기 롱커톤 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.6.8 ~ 2024.7.14 : 최우수상
 7. 포항시 IT 협업 동아리 PARD 4기 iOS 파디 : 2024.9.7 ~ 2025.1.5
 8. PARD 4기 숏커톤 든든국밥 팀의 [Keeper(iOS)](https://github.com/4th-PARD-iOS-PART/dundunKukBab) : 2024.11.15 ~ 2024.11.16
-9. PARD 4기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
-10. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~
-11. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~  
+9. 25년도 2학기 OSS 팀프로젝트 [나만의 흑백요리사(WEB)](https://github.com/LYH513/OSS_teamProject) : 2024년 하반기
+10. PARD 4기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
+11. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~
+12. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~  
     
 
 <br/>
