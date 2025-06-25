@@ -14,7 +14,7 @@
 9. 25년도 2학기 OSS 팀프로젝트 [나만의 흑백요리사(WEB)](https://github.com/LYH513/OSS_teamProject) : 2024년 하반기
 10. PARD 4기 롱커톤 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
 11. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~ 2025.5 : AppStore 배포 완료
-12. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~
+12. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~ 2025.7.13
     
 
 <br/>
