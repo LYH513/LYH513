@@ -4,12 +4,12 @@
 
 ### Experience
 
-1. 값진연고 팀의 [MoneyGlove(WEB)](https://github.com/Club-PARD/My_Precious_WEB) : 2023.12 ~ 2024.1 : 우수상
-2. 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.6.8 ~ 2024.7.14 : 최우수상
+1. 값진연고 팀의 [MoneyGlove(WEB)](https://github.com/Club-PARD/My_Precious_WEB) : 2023.12 ~ 2024.01 : 우수상
+2. 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.06.8 ~ 2024.07.14 : 최우수상
 3. 25년도 2학기 OSS 팀프로젝트 [나만의 흑백요리사(WEB)](https://github.com/LYH513/OSS_teamProject) : 2024년 하반기
 4. 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
-5. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~ 2025.5 : 앱스토어 배포
-6. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.1 ~ 2025.7.13
+5. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~ 2025.05 : 앱스토어 배포
+6. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.01 ~ 2025.07.13
 7. 길짱이들 팀의 [Tourding(iOS)](https://github.com/Giljjang/Tourding_FE): 2025.05.01 ~ 2025.09 : [앱스토어 배포](https://apps.apple.com/kr/app/tourding/id6752022031)
     
 
