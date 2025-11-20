@@ -10,7 +10,7 @@
 4. 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
 5. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~ 2025.05 : 앱스토어 배포
 6. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.01 ~ 2025.07.13
-7. 길짱이들 팀의 [Tourding(iOS)](https://github.com/Giljjang/Tourding_FE): 2025.05.01 ~ 2025.09 : [앱스토어 배포](https://apps.apple.com/kr/app/tourding/id6752022031)
+7. 길짱이들 팀의 [Tourding(iOS)](https://github.com/Giljjang/Tourding_FE): 2025.05.01 ~ 2025.09 : 대상(문체부장관상) [앱스토어 배포](https://apps.apple.com/kr/app/tourding/id6752022031)
 
 8. 강나한공 팀 2025 동북권 ICT NEXT FRONTIER 해커톤 대상 : 2025.09.25 ~ 2025.09.26
     
