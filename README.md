@@ -13,14 +13,10 @@ iOS와 Web을 개발하는 **Youhyeon**입니다.
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=Swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
 
-**Architecture**
-
-MVC · MVVM
+**Architecture** : MVC · MVVM
 
 
-**Networking**
-
-URLSession
+**Networking** : URLSession
 
 
 ---
@@ -32,9 +28,7 @@ URLSession
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**State Management**
-
-Recoil · Zustand
+**State Management** : Recoil · Zustand
 
 
 ---
