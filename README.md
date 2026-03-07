@@ -1,16 +1,55 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&section=header&text=Youhyeon's%20Repo&fontSize=40&fontColor=ffffff" width="100%"/>
 
-# Youhyeon's Repo
+## 👋 About Me
+iOS와 Web을 개발하는 **Youhyeon**입니다.  
+서비스 기획부터 구현, 배포까지 경험하며 **사용자 중심의 서비스를 만드는 것**을 좋아합니다.
 
-### Experience
+---
 
-1. 값진연고 팀의 [MoneyGlove(WEB)](https://github.com/Club-PARD/My_Precious_WEB) : 2023.12 ~ 2024.01 : 우수상
-2. 나무꾼 팀의 [한마디(WEB)](https://github.com/Club-PARD/Hanmadi_WEB) : 2024.06.8 ~ 2024.07.14 : 최우수상
-3. 25년도 2학기 OSS 팀프로젝트 [나만의 흑백요리사(WEB)](https://github.com/LYH513/OSS_teamProject) : 2024년 하반기
-4. 에스파드 팀의 [Pree(iOS)](https://github.com/Club-PARD/AESPArd_FE) : 2024.12.16 ~ 2025.01.03 : 대상
-5. SwiftUI 그룹 프로젝트 [WheelGo(iOS)](https://github.com/HGU-iOS-Study-Group/WheelGo) : 2025.02.04 ~ 2025.05 : 앱스토어 배포
-6. 포항시 IT 협업 동아리 PARD 5기 iOS 부파트장 : 2025.01 ~ 2025.07.13
-7. 길짱이들 팀의 [Tourding(iOS)](https://github.com/Giljjang/Tourding_FE): 2025.05.01 ~ 2025.09 : 대상(문체부장관상) [앱스토어 배포](https://apps.apple.com/kr/app/tourding/id6752022031)
+# 🛠 Tech Stack
 
-8. 강나한공 팀 2025 동북권 ICT NEXT FRONTIER 해커톤 대상 : 2025.09.25 ~ 2025.09.26
-    
+### 📱 iOS
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=Swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+
+**Architecture**
+
+MVC · MVVM
+
+
+**Networking**
+
+URLSession
+
+
+---
+
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**State Management**
+
+Recoil · Zustand
+
+
+---
+
+# 🏆 Experience
+
+| Project | Team | Period | Achievement |
+|------|------|------|------|
+| MoneyGlove (WEB) | 값진연고 | 2023.12 ~ 2024.01 | 🥈 우수상 |
+| 한마디 (WEB) | 나무꾼 | 2024.06.08 ~ 2024.07.14 | 🥇 최우수상 |
+| 나만의 흑백요리사 (WEB) | OSS Team Project | 2024 하반기 | - |
+| Pree (iOS) | 에스파드 | 2024.12.16 ~ 2025.01.03 | 🥇 대상 |
+| WheelGo (iOS) | SwiftUI Group Project | 2025.02.04 ~ 2025.05 | 📱 App Store |
+| PARD 5기 iOS 부파트장 | 포항시 IT 협업 동아리 | 2025.01 ~ 2025.07.13 | Leadership |
+| Tourding (iOS) | 길짱이들 | 2025.05.01 ~ 2025.09 | 🏆 대상 (문체부 장관상) / 📱 App Store |
+| ICT NEXT FRONTIER Hackathon | 강나한공 | 2025.09.25 ~ 2025.09.26 | 🏆 대상 |
+
+---
