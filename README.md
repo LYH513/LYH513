@@ -9,26 +9,29 @@ iOS와 Web을 개발하는 **Youhyeon**입니다.
 # 🛠 Tech Stack
 
 ### 📱 iOS
+
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=Swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
 
-**Architecture** : MVC · MVVM
+![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
 
-
-**Networking** : URLSession
+![URLSession](https://img.shields.io/badge/URLSession-Networking-orange?style=for-the-badge)
 
 
 ---
 
 ### 🌐 Web
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**State Management** : Recoil · Zustand
+![Recoil](https://img.shields.io/badge/Recoil-State%20Management-6C63FF?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-State%20Management-brown?style=for-the-badge)
 
 
 ---
