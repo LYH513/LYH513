@@ -6,7 +6,7 @@ iOS와 Web을 개발하는 **Youhyeon**입니다.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 📱 iOS
 
@@ -36,7 +36,7 @@ iOS와 Web을 개발하는 **Youhyeon**입니다.
 
 ---
 
-# 🏆 Experience
+## 🏆 Experience
 
 | Project | Team | Period | Achievement |
 |------|------|------|------|
