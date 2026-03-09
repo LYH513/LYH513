@@ -47,6 +47,6 @@ iOS와 Web을 개발하는 **Youhyeon**입니다.
 | WheelGo (iOS) | SwiftUI Group Project | 2025.02.04 ~ 2025.05 | 📱 App Store |
 | PARD 5기 iOS 부파트장 | 포항시 IT 협업 동아리 | 2025.01 ~ 2025.07.13 | Leadership |
 | Tourding (iOS) | 길짱이들 | 2025.05.01 ~ 2025.09 | 🏆 대상 (문체부 장관상) / 📱 App Store |
-| ICT NEXT FRONTIER Hackathon | 강나한공 | 2025.09.25 ~ 2025.09.26 | 🏆 대상 |
+| ICT NEXT FRONTIER Hackathon | 강나한공 | 2025.09.25 ~ 2025.09.26 | 🏆 대상 (포항테크노파크 원장상) |
 
 ---
