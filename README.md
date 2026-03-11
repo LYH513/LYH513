@@ -36,17 +36,16 @@ iOS와 Web을 개발하는 **Youhyeon**입니다.
 
 ---
 
-## 🏆 Experience
+| Project                     | Team                  | Period                  | Achievement                    |
+| --------------------------- | --------------------- | ----------------------- | ------------------------------ |
+| Tourding (iOS)              | 길짱이들                  | 2025.05.01 ~ 2025.11.20    | 🏆 대상 (문체부 장관상) / 📱 App Store |
+| ICT NEXT FRONTIER Hackathon | 강나한공                  | 2025.09.25 ~ 2025.09.26 | 🏆 대상 (포항테크노파크 원장상)            |
+| PARD 5기 iOS 부파트장            | 포항시 IT 협업 동아리         | 2025.01 ~ 2025.07.13    | Leadership                     |
+| WheelGo (iOS)               | SwiftUI Group Project | 2025.02.04 ~ 2025.05    | 📱 App Store                   |
+| Pree (iOS)                  | 에스파드                  | 2024.12.16 ~ 2025.01.03 | 🥇 대상                          |
+| 나만의 흑백요리사 (WEB)             | OSS Team Project      | 2024 하반기                | -                              |
+| 한마디 (WEB)                   | 나무꾼                   | 2024.06.08 ~ 2024.07.14 | 🥇 최우수상                        |
+| MoneyGlove (WEB)            | 값진연고                  | 2023.12 ~ 2024.01       | 🥈 우수상                         |
 
-| Project | Team | Period | Achievement |
-|------|------|------|------|
-| MoneyGlove (WEB) | 값진연고 | 2023.12 ~ 2024.01 | 🥈 우수상 |
-| 한마디 (WEB) | 나무꾼 | 2024.06.08 ~ 2024.07.14 | 🥇 최우수상 |
-| 나만의 흑백요리사 (WEB) | OSS Team Project | 2024 하반기 | - |
-| Pree (iOS) | 에스파드 | 2024.12.16 ~ 2025.01.03 | 🥇 대상 |
-| WheelGo (iOS) | SwiftUI Group Project | 2025.02.04 ~ 2025.05 | 📱 App Store |
-| PARD 5기 iOS 부파트장 | 포항시 IT 협업 동아리 | 2025.01 ~ 2025.07.13 | Leadership |
-| Tourding (iOS) | 길짱이들 | 2025.05.01 ~ 2025.09 | 🏆 대상 (문체부 장관상) / 📱 App Store |
-| ICT NEXT FRONTIER Hackathon | 강나한공 | 2025.09.25 ~ 2025.09.26 | 🏆 대상 (포항테크노파크 원장상) |
 
 ---
